@@ -1,112 +1,118 @@
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\model\Grupo.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\storage\FotoStorageRunnable.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\controller\validator\VendaValidator.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\model\Cliente.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\thymeleaf\BrewerDialect.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\controller\ClientesController.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\model\Venda.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\model\Endereco.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\service\CadastroCervejaService.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\config\init\SecurityInitializer.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\thymeleaf\processor\OrderElementTagProcessor.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\dto\FotoDTO.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\config\init\AppInitializer.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\controller\CidadesController.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\model\ItemVenda.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\model\StatusVenda.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\repository\filter\ClienteFilter.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\service\event\venda\VendaListener.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\thymeleaf\processor\PaginationElementTagProcessor.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\repository\Grupos.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\security\UsuarioSistema.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\service\StatusUsuario.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\dto\VendaOrigem.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\service\exception\NomeCidadeJaCadastradaException.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\dto\VendaMes.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\service\event\cerveja\CervejaSalvaEvent.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\security\AppUserDetailsService.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\session\TabelasItensSession.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\repository\Cervejas.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\validation\AtributoConfirmacao.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\repository\helper\CidadesQueries.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\model\validation\group\CnpjGroup.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\thymeleaf\processor\ClassForErrorAttributeTagProcessor.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\controller\handler\ControllerAdviceExceptionHandler.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\repository\paginacao\PaginacaoUtil.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\model\UsuarioGrupoId.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\repository\helper\CervejasImpl.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\controller\DashboardController.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\model\TipoPessoa.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\service\exception\EmailUsuarioJaCadastrado.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\service\exception\SenhaObrigatorioUsuarioException.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\repository\helper\ClientesQueries.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\repository\helper\UsuariosQueries.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\dto\ValorItensEstoque.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\repository\filter\EstiloFilter.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\service\exception\NomeEstiloJaCadastradoException.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\service\event\venda\VendaEvent.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\service\exception\CpfCnpjClienteJaCadastradoException.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\model\Usuario.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\repository\helper\VendasImpl.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\repository\Estados.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\controller\converter\EstadoConverter.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\validation\validator\AtributoConfirmacaoValidator.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\controller\EstilosController.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\model\Cidade.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\service\exception\ImpossivelExcluirEntidadeException.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\controller\UsuariosController.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\repository\Clientes.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\config\MailConfig.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\controller\SegurancaController.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\model\Estado.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\controller\converter\CidadeConverter.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\controller\converter\GrupoConverter.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\thymeleaf\processor\MessageElementTagProcessor.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\repository\helper\VendasQueries.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\config\SecurityConfig.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\repository\Vendas.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\controller\VendasController.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\controller\CervejasController.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\config\JPAConfig.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\repository\Cidades.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\repository\helper\ClientesImpl.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\repository\filter\VendaFilter.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\mail\Mailer.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\config\ServiceConfig.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\session\TabelaItensVenda.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\config\WebConfig.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\repository\filter\CervejaFilter.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\service\CadastroCidadeService.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\model\Permissao.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\model\Origem.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\model\validation\group\CpfGroup.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\repository\filter\CidadeFilter.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\repository\helper\EstilosImpl.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\repository\helper\EstilosQueries.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\service\CadastroClienteService.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\repository\Usuarios.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\storage\FotoStorage.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\repository\filter\UsuarioFilter.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\security\GeracaoDeSenha.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\controller\ErrosController.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\controller\page\PageWrapper.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\service\CadastroUsuarioService.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\model\Estilo.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\repository\helper\UsuariosImpl.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\config\format\BigDecimalFormater.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\service\event\cerveja\CervejaListener.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\validation\SKU.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\model\UsuarioGrupo.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\repository\helper\CervejasQueries.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\service\CadastroVendaService.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\storage\local\FotoStorageLocal.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\thymeleaf\processor\MenuAttributeTagProcessor.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\repository\Estilos.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\controller\converter\EstiloConverter.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\model\validation\ClienteGroupSequenceProvider.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\model\Cerveja.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\repository\helper\CidadesImpl.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\controller\FotosController.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\service\CadastroEstiloService.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\dto\CervejaDTO.java
-C:\Users\DPDI\New Workspace Eclipse 2019\brewer\src\main\java\br\com\fernantech\brewer\model\Sabor.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\controller\UsuariosController.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\model\Grupo.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\model\Permissao.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\service\exception\ImpossivelExcluirEntidadeException.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\validation\validator\AtributoConfirmacaoValidator.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\config\format\LocalDateTimeFormatter.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\dto\PeriodoRelatorio.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\controller\CervejasController.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\config\format\LocalDateFormatter.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\storage\FotoStorageRunnable.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\thymeleaf\BrewerDialect.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\repository\Estados.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\repository\listener\CervejaEntityListener.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\repository\helper\UsuariosQueries.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\model\Sabor.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\model\UsuarioGrupoId.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\repository\filter\CidadeFilter.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\config\MailConfig.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\controller\converter\EstiloConverter.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\controller\converter\GrupoConverter.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\service\RelatorioService.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\model\Usuario.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\service\exception\NomeEstiloJaCadastradoException.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\dto\VendaMes.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\repository\helper\EstilosQueries.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\service\exception\SenhaObrigatorioUsuarioException.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\security\GeracaoDeSenha.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\controller\CidadesController.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\repository\Grupos.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\config\WebConfig.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\controller\DashboardController.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\model\TipoPessoa.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\config\format\IntegerFormater.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\controller\RelatoriosController.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\repository\filter\CervejaFilter.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\repository\Estilos.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\thymeleaf\processor\MenuAttributeTagProcessor.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\validation\SKU.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\service\exception\EmailUsuarioJaCadastrado.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\service\event\venda\VendaListener.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\dto\CervejaDTO.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\config\format\TemporalFormatter.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\repository\helper\CervejasImpl.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\repository\Cervejas.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\service\event\venda\VendaEvent.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\controller\VendasController.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\model\Endereco.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\controller\converter\CidadeConverter.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\session\TabelaItensVenda.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\dto\FotoDTO.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\repository\Vendas.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\model\Cliente.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\model\ItemVenda.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\controller\validator\VendaValidator.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\repository\Clientes.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\BrewerApplication.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\thymeleaf\processor\PaginationElementTagProcessor.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\controller\page\PageWrapper.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\model\Venda.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\thymeleaf\processor\ClassForErrorAttributeTagProcessor.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\repository\helper\ClientesImpl.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\service\exception\NomeCidadeJaCadastradaException.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\config\SecurityConfig.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\model\Cerveja.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\model\Estilo.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\security\AppUserDetailsService.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\repository\helper\VendasImpl.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\repository\helper\ClientesQueries.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\dto\ValorItensEstoque.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\model\UsuarioGrupo.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\service\exception\CpfCnpjClienteJaCadastradoException.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\config\S3Config.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\config\format\LocalTimeFormatter.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\repository\paginacao\PaginacaoUtil.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\controller\SegurancaController.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\service\CadastroVendaService.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\repository\helper\UsuariosImpl.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\service\CadastroCervejaService.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\config\format\BigDecimalFormater.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\storage\local\FotoStorageLocal.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\service\CadastroUsuarioService.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\validation\AtributoConfirmacao.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\thymeleaf\processor\MessageElementTagProcessor.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\controller\EstilosController.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\service\CadastroCidadeService.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\model\validation\ClienteGroupSequenceProvider.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\repository\filter\UsuarioFilter.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\repository\helper\EstilosImpl.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\repository\filter\EstiloFilter.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\mail\Mailer.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\model\StatusVenda.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\repository\helper\CidadesImpl.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\session\TabelasItensSession.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\storage\FotoStorage.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\repository\Usuarios.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\controller\FotosController.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\security\UsuarioSistema.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\model\Estado.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\service\CadastroEstiloService.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\model\Cidade.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\repository\filter\VendaFilter.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\repository\filter\ClienteFilter.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\service\CadastroClienteService.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\config\format\NumberFormatter.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\controller\ClientesController.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\repository\Cidades.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\controller\handler\ControllerAdviceExceptionHandler.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\service\StatusUsuario.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\model\Origem.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\model\validation\group\CnpjGroup.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\storage\s3\FotoStorageS3.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\repository\helper\VendasQueries.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\dto\VendaOrigem.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\controller\converter\EstadoConverter.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\model\validation\group\CpfGroup.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\repository\helper\CidadesQueries.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\repository\helper\CervejasQueries.java
+C:\Users\Alpha\git\brewer_2.0\src\main\java\br\com\fernantech\brewer\thymeleaf\processor\OrderElementTagProcessor.java

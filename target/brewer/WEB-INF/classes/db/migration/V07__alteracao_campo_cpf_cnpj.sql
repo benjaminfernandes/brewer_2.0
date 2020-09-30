@@ -1,1 +1,0 @@
-ALTER TABLE cliente ALTER COLUMN cpf_cnpj SET NOT NULL;

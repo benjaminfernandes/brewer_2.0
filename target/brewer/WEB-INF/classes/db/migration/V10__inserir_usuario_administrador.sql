@@ -1,1 +1,0 @@
-INSERT INTO USUARIO (nome, email, senha, ativo) VALUES ('admin', 'admin@brewer.com', '$2a$10$c4TsTKC5MjnIEZEWMJDvQuYR1sP0NJJJ8HmOlHMOGo3FZuN0vNZWC', true); 
