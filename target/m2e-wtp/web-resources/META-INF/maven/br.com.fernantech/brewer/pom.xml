@@ -62,7 +62,7 @@
 		<!-- Java Mail -->
 		<javax.mail.version>1.5.6</javax.mail.version>
 		<!-- AWS Amazon S3 -->
-		<aws-java-sdk-s3.version>1.10.77</aws-java-sdk-s3.version>
+		<aws-java-sdk-s3.version>1.12.261</aws-java-sdk-s3.version>
 		<!-- JasperReport -->
 		<jasperreports.version>6.5.1</jasperreports.version>
 		<!-- JasperReport Fonts -->
