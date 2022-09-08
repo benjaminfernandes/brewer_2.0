@@ -38,7 +38,7 @@
 		<!-- JPA / Hibernate -->
 		<hibernate.version>5.1.0.Final</hibernate.version>
 		<!-- PostgreSql -->
-		<postgresql.version>42.2.2</postgresql.version>
+		<postgresql.version>42.4.1</postgresql.version>
 		<!-- Spring Data JPA -->
 		<spring-data-jpa.version>1.11.23.RELEASE</spring-data-jpa.version>
 		<!-- C3P0 -->
