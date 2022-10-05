@@ -44,7 +44,7 @@
 		<!-- C3P0 -->
 		<c3p0.version>0.9.1.2</c3p0.version>
 		<!-- Jackson - JSON -->
-		<jackson-core.version>2.10.5.1</jackson-core.version>
+		<jackson-core.version>2.12.6.1</jackson-core.version>
 		<!-- thumbnailator - Gerar Thumbnail -->
 		<!-- https://github.com/coobird/thumbnailator -->
 		<thumbnailator.version>0.4.8</thumbnailator.version>
